@@ -10,14 +10,14 @@
  ### Анализ FastQC
  Все html-файлы, полученные в ходе выполнения исследования из домашнего задания, находятся в папке reports.
  
- ### Реплика №1 - ENCFF792HPJ
+ ### Реплика №1 - ENCFF001FCJ
 ![image](https://user-images.githubusercontent.com/95979982/222257909-54df9a85-03f9-4939-9508-31248bb9694f.png)
 ![image](https://user-images.githubusercontent.com/95979982/222257959-eccdf77f-3ad7-45d0-b70c-17a6032c400d.png)
 ![image](https://user-images.githubusercontent.com/95979982/222258009-deeab3e3-29ab-4dd9-ac1e-6da6fa0470ae.png)
 ![image](https://user-images.githubusercontent.com/95979982/222258044-8ea16db5-f065-4c82-b5f0-fca7141c8836.png)
 ![image](https://user-images.githubusercontent.com/95979982/222258107-350d5b15-4f06-40e7-b2ef-2f7bf374ce7a.png)
 ![image](https://user-images.githubusercontent.com/95979982/222258088-604d7da5-23eb-4be0-a5e0-ceab49ec8976.png)
- ### Реплика №2 - ENCFF920HHA
+ ### Реплика №2 - ENCFF001FCK
 ![image](https://user-images.githubusercontent.com/95979982/222258197-f5ad7488-84c4-49a2-ba13-b1bedfe26c95.png)
 ![image](https://user-images.githubusercontent.com/95979982/222258232-02857136-74c4-47d2-998e-52a1df44e741.png)
 ![image](https://user-images.githubusercontent.com/95979982/222258276-13d8ebae-991e-413c-b69b-6994e79434c0.png)
@@ -25,7 +25,7 @@
 ![image](https://user-images.githubusercontent.com/95979982/222258339-36fbbf5b-b20a-46ea-95dc-71eaf740e714.png)
 > Вывод: качество приемлимое для дальнейшей работы
 
- ### Контроль - ENCFF486LTO
+ ### Контроль - ENCFF001FFI
  ![image](https://user-images.githubusercontent.com/95979982/222259650-296e21ad-2747-417b-95b3-94d47dc54581.png)
 ![image](https://user-images.githubusercontent.com/95979982/222259701-f775a049-995d-4e0c-aa90-4e5569644f66.png)
 ![image](https://user-images.githubusercontent.com/95979982/222259721-7bc49ba8-8db2-4428-8d3e-8a276939e6cc.png)
